@@ -7,6 +7,14 @@ published: true
 
 {% include nav.html %}
 
+Behind the Stripes Muna Ahmed
+@nasa-jpl @la-county-isd @podaac 
+<img  alt="image" src="https://github.com/user-attachments/assets/460f6949-27d0-4d6b-8eec-db25fda36034" />
+
+[SONG - 
+Prophet Posse](https://youtu.be/1FarcBkP-xk) ... [
+Solid Steel presents DJ Food & DK - "Now, Listen Again!" (mixed CD)](https://youtu.be/ye3rGmEJqY0?t=934)
+
 [Firms](https://firms.modaps.eosdis.nasa.gov/) [FirMS - Map](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-114.497,34.761,14.107z) [KML SHAPES and Archives](https://firms.modaps.eosdis.nasa.gov/usfs/active_fire/) @blackgirlscode 
 
 [Part 1: Post-Fire Imagery and Smoke Monitoring - pdf] [[READ](https://earthdata.nasa.gov/s3fs-public/2025-11/AdvFIRMS_Part1_BB_MFC_DD_JO.pdf?VersionId=_b9T2QWdP0ahe_j7EV1gEVclTsYOuxTg)]
@@ -670,6 +678,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
