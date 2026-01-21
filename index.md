@@ -7,10 +7,10 @@ published: true
 
 {% include nav.html %}
 
-Behind the Stripes Muna Ahmed
+## Behind the Stripes Muna Ahmed
 [Read](https://www.atlutd.com/news/behind-the-stripes/muna-ahmed) ::: [OBituary](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed?obId=38042500) 
 @nasa-jpl @la-county-isd @podaac @nasajpl is @uber into mars ? i dont trust them @repkarenbass @lacounty @hollyjmitchell @normani remember i got poisoned and jumped as a driver ? erika left me after maybe the ceo her cracker atm @uber someone tampered with your @youtube comments [VideoLink](https://www.youtube.com/watch?v=1FarcBkP-xk) @blackgirlscode ::: [NORMANi - ALL_YOURS `nice song`](https://youtu.be/YRp1vqmAZoM?si=cFFi9PpAwFk3X2zf)
-
+[SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse 
 <img  alt="image" src="https://github.com/user-attachments/assets/460f6949-27d0-4d6b-8eec-db25fda36034" />
 
 [SONG - 
@@ -680,6 +680,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
