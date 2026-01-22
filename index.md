@@ -15,7 +15,8 @@ published: true
 
 ![ita.lacity.gov](https://ita.lacity.gov/sites/g/files/wph1626/files/202409_STRY0023274_ITA_WebLogo_v1_400x120.svg) @la-county-isd
 [SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
-Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf)
+Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf) :: [Los Angeles Climate Smart Cities
+TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf)
 
 
 [SONG - 
@@ -685,6 +686,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
