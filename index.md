@@ -17,7 +17,61 @@ published: true
 [SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
 Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf) :: [Los Angeles Climate Smart Cities
 TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf)
+[laincubator.org/ZERO_EMiSSiONS_ROADMAP - PDF](https://laincubator.org/wp-content/uploads/LA_Roadmap2.0_Final2.2.pdf)
+@CityOfLosAngeles 
+<img   alt="image" src="https://github.com/user-attachments/assets/c9aeb13a-fe2f-45dc-8095-acd1933aaaf9" />
 
+
+[CityOfAlameda - WifiPlan - READ_PDF](https://www.alamedaca.gov/files/assets/public/v/2/it/alameda-smart-city-master-plan_final.pdf#page=65) `idea space` @la-county-isd hollyjmitchell
+Recommendation #2: Deploy
+Wi-Fi in Public Spaces
+Internet access is considered an essential
+service and is recognized as a human right in
+some countries. Wireless connection to the
+internet has become almost ubiquitous in our
+society as more and more common everyday
+devices, such as kitchen appliances, are now
+“on-line.” Wireless networks (Wi-Fi), and the
+resulting access to the internet, has become
+commonplace throughout our work
+environment and at home. Public agencies and
+organizations initially deployed Wi-Fi at their
+facilities to support municipal operations but
+have expanded the use to provide a public
+benefit such as digital inclusion, economic
+development, and services to an underserved
+population who do not have internet access at
+home. The recent pandemic has required
+students to transition to on-line schooling,
+workers to work from home, and has even
+meant that seeing a doctor was done on-line via
+telehealth/telemedicine.
+As a first phase, it is recommended that the City
+deploy a public Wi-Fi service starting with city
+buildings and city-owned outdoor spaces. For
+city buildings, this would include both City Hall
+buildings, Police Department, Emergency
+Operations Center, Maintenance Service
+Center, and recreation centers. For outdoors
+spaces, this would include most city parks, the
+three ferry terminal lots, key corridors including
+Park Street and Webster Street and priority
+equity neighborhoods such as Alameda Point.
+For later implementation phases, City staff will
+conduct further input to ensure that the public
+Wi-Fi is deployed at high priority locations for
+community members beyond the locations
+mentioned above, such as at bus stops or other
+gathering places. Operations and maintenance
+of these networks will likely fall to IT and
+depending on the extent of deployment may
+require additional staffing to support the
+system. Deployment of this system will largely
+depend on the deployment of the supporting
+fiber optic communication network which
+would affect deployment timeframe. 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/478a223d-fc46-427a-85b5-5f46f3ee050f" />
 
 [SONG - 
 Prophet Posse](https://youtu.be/1FarcBkP-xk) ... [
@@ -686,6 +740,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
