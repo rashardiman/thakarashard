@@ -10,8 +10,13 @@ published: true
 ## Behind the Stripes Muna Ahmed
 [Read](https://www.atlutd.com/news/behind-the-stripes/muna-ahmed) ::: [OBituary](https://www.wagesfuneralhome.com/obituaries/Muna-Ahmed?obId=38042500) 
 @nasa-jpl @la-county-isd @podaac @nasajpl is @uber into mars ? i dont trust them @repkarenbass @lacounty @hollyjmitchell @normani remember i got poisoned and jumped as a driver ? erika left me after maybe the ceo her cracker atm @uber someone tampered with your @youtube comments [VideoLink](https://www.youtube.com/watch?v=1FarcBkP-xk) @blackgirlscode ::: [NORMANi - ALL_YOURS `nice song`](https://youtu.be/YRp1vqmAZoM?si=cFFi9PpAwFk3X2zf)
-[SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/460f6949-27d0-4d6b-8eec-db25fda36034" />
+
+![ita.lacity.gov](https://ita.lacity.gov/sites/g/files/wph1626/files/202409_STRY0023274_ITA_WebLogo_v1_400x120.svg) @la-county-isd
+[SMART_LA](https://www.youtube.com/@LAThisWeek) <~ @ISRO this document does not include us @USGS or @nasa-jpl and i dont know how so many of us are digitally disabled and playboy mobbed up with all the technology and we make the shit ... ultimately... i dont understand capitalism mr trump @whitehouse [How Will LA Look in 2028? A Look at the City's Plan To Embrace
+Transformational Tech](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf)
+
 
 [SONG - 
 Prophet Posse](https://youtu.be/1FarcBkP-xk) ... [
@@ -680,6 +685,7 @@ by rashardKelly - [NASA/JPL](https://solarsystem.nasa.gov/cassini-raw-images/)
 
 
 <link rel="stylesheet" href="/css/lightbox.css">
+
 
 
 
